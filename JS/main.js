@@ -5,7 +5,7 @@ var cardOne = [0];
 cardsInPlay.push('cardOne');
 console.log("User flipped queen");
 
-var cardTwo = [3];
+var cardTwo = [2];
 cardsInPlay.push('cardtwo');
 console.log("User flipped king");
 
@@ -15,3 +15,7 @@ if (cardsInPlay.length === 2); {
 if (cardsInPlay.length == 2){
   alert ("Sorry try again");
 }
+var addbonusPoints  = function() {
+
+  
+};
